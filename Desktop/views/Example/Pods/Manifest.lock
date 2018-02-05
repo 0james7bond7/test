@@ -1,0 +1,16 @@
+PODS:
+  - views (0.1.0)
+
+DEPENDENCIES:
+  - views (from `../`)
+
+EXTERNAL SOURCES:
+  views:
+    :path: ../
+
+SPEC CHECKSUMS:
+  views: 59f20a679117aa079a02348f09a3b3267025cd78
+
+PODFILE CHECKSUM: 1c6c8badc7333cd1a5f249047dbd5734999ecce2
+
+COCOAPODS: 1.3.1
