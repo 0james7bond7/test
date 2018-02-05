@@ -1,0 +1,22 @@
+{
+  "name": "testLib",
+  "version": "0.1.0",
+  "summary": "A short description of testLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/0james7bond7/testLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "0james7bond7": "0james7bond7@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/0james7bond7/testLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testLib/Classes/**/*"
+}
